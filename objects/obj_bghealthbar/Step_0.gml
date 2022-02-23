@@ -1,5 +1,5 @@
 sprite_index = spr_bghealthbar;
-if(bghp == 4)
+if(bghp >= 4)
 {
 	image_index = 0;
 }
@@ -19,7 +19,7 @@ if(bghp == 1)
 	image_index = 3;
 }
 
-if(bghp == 0)
+if(bghp <= 0)
 {
 	image_index = 4;
 }

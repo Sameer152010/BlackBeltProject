@@ -83,9 +83,8 @@ switch(_text_id){
 				scr_option("...No.", "Void1no")
 			break;
 		case "welcome":
-			scr_text("Yeah yeah. I'm just talking to myself.")
-			scr_text("Literally. This is just me writing the script isn't it.")
-			scr_text("Well jokes on you. I'm not real.")
+			scr_text("UNUSED: Welcome to the void.")
+			room_goto_next();
 			break;
 	}
 

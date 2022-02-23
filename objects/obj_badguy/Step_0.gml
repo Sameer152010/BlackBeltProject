@@ -17,3 +17,8 @@ if(place_meeting(obj_badguy.x, obj_badguy.y, obj_fightblob))
 		alarm[0] = 1 * room_speed;
 	}
 }
+
+if (obj_bghealthbar.bghp = 0)
+{
+	spd = 0;
+}
