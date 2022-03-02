@@ -1,9 +1,13 @@
-if position_meeting(mouse_x, mouse_y, id) && mouse_check_button_pressed(mb_left)
+selecto = keyboard_check_pressed(vk_enter);
+if(place_meeting(obj_carmine.x, obj_carmine.y, obj_player))
 	{
-	with(instance_create_depth(0, 0, -9999, obj_textbox) )
-		{
-		scr_text("Get in the car?")
-			scr_option("Yeah", "Car")
-			scr_option("Nah", "Home")
-		}
+		if(selecto)
+			{
+			with(instance_create_depth(0, 0, -9999, obj_textbox) )
+				{
+				scr_text("Get in the car?")
+					scr_option("Yeah", "Car")
+					scr_option("Nah", "Home")
+				}
+			}
 	}

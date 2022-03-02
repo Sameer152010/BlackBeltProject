@@ -1,6 +1,4 @@
-if position_meeting(mouse_x, mouse_y, id) && mouse_check_button_pressed(mb_left)
-	{
-	with(instance_create_depth(0, 0, -9999, obj_textbox) )
+with(instance_create_depth(0, 0, -9999, obj_textbox) )
 		{
 		scr_text("Everest!", "Placeholder")
 		scr_text("Everest! Get up!", "Placeholder")
@@ -12,4 +10,3 @@ if position_meeting(mouse_x, mouse_y, id) && mouse_check_button_pressed(mb_left)
 			scr_option("Get up", "mom - yes")
 			scr_option("Don't", "mom - no")
 		}
-	}
