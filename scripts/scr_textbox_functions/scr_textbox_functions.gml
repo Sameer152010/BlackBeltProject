@@ -45,7 +45,14 @@ function scr_text(_text){
 				txtb_spr[page_number] = spr_textbox_npc;
 				speaker_side[page_number] = -1;
 				break;
-			
+			case "spr_everest_face":
+				speaker_sprite[page_number] = spr_everest_face;
+				txtb_spr[page_number] = spr_textbox_npc;
+				speaker_side[page_number] = -1;
+			case "spr_everest":
+				speaker_sprite[page_number] = spr_everest;
+				txtb_spr[page_number] = spr_textbox_npc;
+				speaker_side[page_number] = -1;
 			}
 		}
 	
