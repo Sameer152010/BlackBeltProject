@@ -86,6 +86,21 @@ switch(_text_id){
 			scr_text("UNUSED: Welcome to the void.")
 			room_goto_next();
 			break;
+			
+		case "LORE":
+			scr_text("UNUSED: The dream dimension used to be a place called the U--de-g-ou-d")
+			scr_text("UNUSED: It was the prision of a peculiar species")
+			scr_text("UNUSED: When the prision was broken with VII forces of life...")
+			scr_text("UNUSED: Left behind was a robotic form.")
+			scr_text("UNUSED: The form used for another time")
+			scr_text("UNUSED: A form used for this very rhyme.")
+			scr_text("UNUSED: The king sought protection from those he punished.")
+			scr_text("UNUSED: The metal came to him, a dangerous choice.")
+			scr_text("UNUSED: The corupt one will bring to him, the item of glitches,")
+			scr_text("UNUSED: ... and the glitched souls of the kingdom.")
+			scr_text("UNUSED: to bring about the end of the world.")
+			scr_text("UNUSED: M-T-A-ON, EX, NEO.")
+			break;
 	}
 
 }

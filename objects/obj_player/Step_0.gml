@@ -47,3 +47,18 @@ if xspd == 0 && yspd == 0
 	{
 	image_index = 0;
 	}
+
+if(dreamworld == 0)
+{
+	sprite[RIGHT] = spr_player_right;
+	sprite[UP] = spr_player_up;
+	sprite[LEFT] = spr_player_left;
+	sprite[DOWN] = spr_player_down;
+}
+if(dreamworld == 1)
+{
+	sprite[RIGHT] = spr_dplayer_right;
+	sprite[UP] = spr_dplayer_up;
+	sprite[LEFT] = spr_dplayer_left;
+	sprite[DOWN] = spr_dplayer_down;
+}
