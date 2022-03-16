@@ -70,7 +70,7 @@ switch(_text_id){
 			room_goto_next();
 			break;
 		case "Void1yes":
-			scr_text("Thank you.")
+			scr_text("Thank you for listening.")
 				scr_option("You're welcome", "welcome")
 			break;
 		case "Void1no":
@@ -101,6 +101,19 @@ switch(_text_id){
 			scr_text("UNUSED: to bring about the end of the world.")
 			scr_text("UNUSED: M-T-A-ON, EX, NEO.")
 			break;
+		
+		case "Dream":
+		{
+			scr_text("UNUSED: While it may appear like a dream. Dreamworld is actually a real place. Somewhere in the multiverse.")
+			scr_text("UNUSED: Don't be fooled. THE KING IS NOT WHAT HE SEEMS.")
+			scr_text("UNUSED: M-TT-T-N. He is M-TT-T-N in disguise. The endoskeleton must not become whole once more.")
+			scr_text("UNUSED: Don't give him a soul. The world will end.")
+			scr_text("UNUSED: The endoskeleton escaped the battle against the murderer.")
+			scr_text("UNUSED: Leaving the weak soul with poor defenses to fight on their own.")
+			scr_text("UNUSED: While you can't kill a ghost, you can destroy an object.")
+			scr_text("UNUSED: EXP:999999  GOLD:9999   ATK:9999 DEF:9999  LOVE:20 KILLS: 9999")
+			room_goto_next()
+		}
 	}
 
 }
