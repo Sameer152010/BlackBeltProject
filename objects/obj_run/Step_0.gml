@@ -9,7 +9,7 @@ if obj_fight.select >= 1
 	image_index = 0;
 	if(selectr && obj_bghealthbar.bghp <= 0)
 	{
-		obj_win.win = 1;
+		scr_text("Wonderful job! Unfortunately this demo isn't finished yet, but if you made it here then you're doing great so far.")
 	}
 }
 

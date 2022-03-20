@@ -14,8 +14,6 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_fightblob","path":"objects/obj_fightblob/obj_fightblob.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":96.0,"resourceVersion":"1.0","name":"inst_6BC824A5_1","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_badguy","path":"objects/obj_badguy/obj_badguy.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":32.0,"resourceVersion":"1.0","name":"inst_4AB12C0A_1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_fightui","path":"objects/obj_fightui/obj_fightui.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":18.0,"scaleY":3.5625,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":198.0,"y":187.5,"resourceVersion":"1.0","name":"inst_21825BC8_1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_healthbar","path":"objects/obj_healthbar/obj_healthbar.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":6.33333349,"scaleY":5.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":55.0,"y":144.0,"resourceVersion":"1.0","name":"inst_596EACDB_1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_fight","path":"objects/obj_fight/obj_fight.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.722222,"scaleY":2.58333325,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":25.0,"y":172.0,"resourceVersion":"1.0","name":"inst_2AADE83F_1","tags":[],"resourceType":"GMRInstance",},
@@ -23,6 +21,8 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_run","path":"objects/obj_run/obj_run.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.72222233,"scaleY":2.58333325,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":211.0,"y":172.0,"resourceVersion":"1.0","name":"inst_384784F2_1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_badguy_hitbox","path":"objects/obj_badguy_hitbox/obj_badguy_hitbox.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":32.0,"resourceVersion":"1.0","name":"inst_76063D82_1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_bghealthbar","path":"objects/obj_bghealthbar/obj_bghealthbar.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":6.33333349,"scaleY":4.99999952,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":197.5,"y":144.0,"resourceVersion":"1.0","name":"inst_2F911D48_1","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_wolf_fight","path":"objects/obj_wolf_fight/obj_wolf_fight.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.25,"scaleY":0.25,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":32.0,"resourceVersion":"1.0","name":"inst_69DED044","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_soul","path":"objects/obj_soul/obj_soul.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.66666675,"scaleY":2.66666675,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":132.0,"y":104.0,"resourceVersion":"1.0","name":"inst_74DF01E1","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":4.5,"scaleY":0.90625,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":158.0,"resourceVersion":"1.0","name":"inst_13DAFE6_1","tags":[],"resourceType":"GMRInstance",},
@@ -36,8 +36,6 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_6BC824A5_1","path":"rooms/rm_fight1/rm_fight1.yy",},
-    {"name":"inst_4AB12C0A_1","path":"rooms/rm_fight1/rm_fight1.yy",},
     {"name":"inst_21825BC8_1","path":"rooms/rm_fight1/rm_fight1.yy",},
     {"name":"inst_13DAFE6_1","path":"rooms/rm_fight1/rm_fight1.yy",},
     {"name":"inst_4C6D5B9E_1","path":"rooms/rm_fight1/rm_fight1.yy",},
@@ -49,6 +47,8 @@
     {"name":"inst_384784F2_1","path":"rooms/rm_fight1/rm_fight1.yy",},
     {"name":"inst_76063D82_1","path":"rooms/rm_fight1/rm_fight1.yy",},
     {"name":"inst_2F911D48_1","path":"rooms/rm_fight1/rm_fight1.yy",},
+    {"name":"inst_69DED044","path":"rooms/rm_fight1/rm_fight1.yy",},
+    {"name":"inst_74DF01E1","path":"rooms/rm_fight1/rm_fight1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
