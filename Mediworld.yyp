@@ -100,6 +100,7 @@
     {"id":{"name":"spr_speakblock_v","path":"sprites/spr_speakblock_v/spr_speakblock_v.yy",},"order":7,},
     {"id":{"name":"spr_everest_face","path":"sprites/spr_everest_face/spr_everest_face.yy",},"order":36,},
     {"id":{"name":"ts_house_tiles","path":"tilesets/ts_house_tiles/ts_house_tiles.yy",},"order":0,},
+    {"id":{"name":"rm_1_postfight","path":"rooms/rm_1_postfight/rm_1_postfight.yy",},"order":16,},
     {"id":{"name":"obj_decoy","path":"objects/obj_decoy/obj_decoy.yy",},"order":25,},
     {"id":{"name":"spr_speakblock_m","path":"sprites/spr_speakblock_m/spr_speakblock_m.yy",},"order":9,},
     {"id":{"name":"obj_sleepy_boi","path":"objects/obj_sleepy_boi/obj_sleepy_boi.yy",},"order":19,},
@@ -203,6 +204,7 @@
     {"roomId":{"name":"rm_cutscene2_UNUSED","path":"rooms/rm_cutscene2_UNUSED/rm_cutscene2_UNUSED.yy",},},
     {"roomId":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
     {"roomId":{"name":"rm_fight1","path":"rooms/rm_fight1/rm_fight1.yy",},},
+    {"roomId":{"name":"rm_1_postfight","path":"rooms/rm_1_postfight/rm_1_postfight.yy",},},
     {"roomId":{"name":"Room20","path":"rooms/Room20/Room20.yy",},},
   ],
   "Folders": [
