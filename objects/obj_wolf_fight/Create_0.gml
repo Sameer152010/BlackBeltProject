@@ -1,3 +1,2 @@
-spd = 0.5;
+spd = 1;
 recently_hit = false;
-

@@ -2,7 +2,12 @@
 // You can write your code in this editor
 if(instance_exists(obj_player))
 {
+<<<<<<< HEAD
 	alarm[1] = 5 * room_speed;
+=======
+	move_towards_point(obj_player.x, obj_player.y, spd);
+	
+>>>>>>> 5c0f6fa11f156649e68ed69b3b4dec80abc16d6d
 }
 
 if(place_meeting(obj_wolf_fight.x, obj_wolf_fight.y, obj_player))
