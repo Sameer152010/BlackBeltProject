@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_wolf_unfinished",
-    "path": "sprites/spr_wolf_unfinished/spr_wolf_unfinished.yy",
+    "name": "spr_wolf",
+    "path": "sprites/spr_wolf/spr_wolf.yy",
   },
   "solid": false,
   "visible": true,

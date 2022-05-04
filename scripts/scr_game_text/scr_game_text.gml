@@ -64,7 +64,6 @@ switch(_text_id){
 			scr_text("Then again... we're talking about getting in your mom's car.")
 			break;
 		case "Car":
-			room_goto_next();
 			break;
 		case "idk2":
 			room_goto_next();
@@ -112,6 +111,17 @@ switch(_text_id){
 			scr_text("UNUSED: Leaving the weak soul with poor defenses to fight on their own.")
 			scr_text("UNUSED: While you can't kill a ghost, you can destroy an object.")
 			scr_text("UNUSED: EXP:999999  GOLD:9999   ATK:9999 DEF:9999  LOVE:20 KILLS: 9999")
+			obj_player.x = 66;
+			obj_player.y = 79;
+			room_goto_next()
+		}
+		case "Farewell!":
+		{
+			scr_text("UNUSED: Do not let the king live")
+			room_goto_next()
+		}
+		case "manualend":
+		{
 			room_goto_next()
 		}
 	}
