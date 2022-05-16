@@ -2,6 +2,7 @@ with(instance_create_depth(0, 0, -9999, obj_textbox) )
 		{
 		scr_text("Everest!", "Placeholder")
 		scr_text("Everest! Get up!", "Placeholder")
+		scr_text("(This must be some dream he's having...)", "Placeholder")
 		scr_text("You're gonna be late for school!", "Placeholder")
 		scr_text("I have your bag packed, and everything is ready...", "Placeholder")
 		scr_text("So I really just need you to get up as soon as you can", "Placeholder")
