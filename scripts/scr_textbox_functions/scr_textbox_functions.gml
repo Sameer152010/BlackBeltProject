@@ -41,7 +41,7 @@ function scr_text(_text){
 				speaker_side[page_number] = -1;
 				break;
 			case "Placeholder":
-				speaker_sprite[page_number] = spr_placeholder_face;
+				speaker_sprite[page_number] = Sprite118;
 				txtb_spr[page_number] = spr_textbox_npc;
 				speaker_side[page_number] = -1;
 				break;
