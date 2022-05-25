@@ -1,8 +1,3 @@
-if(!instance_exists(obj_cutscene)){
-	create_cutscene(t_scene_info)
-}
-
-//NOTE TO SELF: TAKE THE CODE UNDER HERE AND PUT IT WHERE IT BELONGS
 with(instance_create_depth(0, 0, -9999, obj_textbox) )
 		{
 		scr_text("Everest!", "Placeholder")

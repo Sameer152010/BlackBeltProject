@@ -1,6 +1,5 @@
 ///@description cutscene_wait
-///@arg seconds
-
+///@param seconds
 timer++;
 
 if(timer >= argument0 * room_speed)

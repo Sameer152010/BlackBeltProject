@@ -23,7 +23,6 @@
     {"id":{"name":"Room20","path":"rooms/Room20/Room20.yy",},"order":15,},
     {"id":{"name":"spr_getupsleepyhead","path":"sprites/spr_getupsleepyhead/spr_getupsleepyhead.yy",},"order":28,},
     {"id":{"name":"obj_cutscene_2","path":"objects/obj_cutscene_2/obj_cutscene_2.yy",},"order":23,},
-    {"id":{"name":"cutscene_instance_destroy","path":"scripts/cutscene_instance_destroy/cutscene_instance_destroy.yy",},"order":4,},
     {"id":{"name":"spr_badguy_hitbox90","path":"sprites/spr_badguy_hitbox90/spr_badguy_hitbox90.yy",},"order":11,},
     {"id":{"name":"spr_spiderweb","path":"sprites/spr_spiderweb/spr_spiderweb.yy",},"order":34,},
     {"id":{"name":"spr_altarol","path":"sprites/spr_altarol/spr_altarol.yy",},"order":46,},
@@ -211,6 +210,7 @@
     {"id":{"name":"obj_wolf_fight","path":"objects/obj_wolf_fight/obj_wolf_fight.yy",},"order":35,},
     {"id":{"name":"spr_fightui","path":"sprites/spr_fightui/spr_fightui.yy",},"order":8,},
     {"id":{"name":"Sprite85","path":"sprites/Sprite85/Sprite85.yy",},"order":52,},
+    {"id":{"name":"obj_cutscene184","path":"objects/obj_cutscene184/obj_cutscene184.yy",},"order":51,},
     {"id":{"name":"spr_badguy","path":"sprites/spr_badguy/spr_badguy.yy",},"order":6,},
     {"id":{"name":"spr_badguy_hitbox","path":"sprites/spr_badguy_hitbox/spr_badguy_hitbox.yy",},"order":21,},
     {"id":{"name":"cutscene_instance_create","path":"scripts/cutscene_instance_create/cutscene_instance_create.yy",},"order":3,},
@@ -264,7 +264,6 @@
   ],
   "isDnDProject": false,
   "isEcma": false,
-  "tutorialPath": "",
   "configs": {
     "name": "Default",
     "children": [],
@@ -331,7 +330,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.7.606",
+    "IDEVersion": "2022.1.1.610",
   },
   "resourceVersion": "1.4",
   "name": "Mediworld",
