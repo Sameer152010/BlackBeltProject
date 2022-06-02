@@ -120,6 +120,19 @@ switch(_text_id){
 			scr_text("UNUSED: Do not let the king live")
 			room_goto_next()
 		}
+		case "Wolf":
+		{
+			
+			room_goto_next()
+		}
+		case "Spider":
+		{
+			scr_text("You decided not to")
+		}
+		case "End":
+		{
+			game_end()
+		}
 		case "manualend":
 		{
 			room_goto_next()

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "",
-    "path": "",
+    "name": "spr_battle_arena",
+    "path": "sprites/spr_battle_arena/spr_battle_arena.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_321go",
+  "name": "obj_end",
   "tags": [],
   "resourceType": "GMObject",
 }
