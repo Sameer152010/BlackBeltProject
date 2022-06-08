@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_spidereyesfade","path":"sprites/spr_spidereyesfade/spr_spidereyesfade.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_spidereyesfade",
     "tags": [],
     "resourceType": "GMSequence",

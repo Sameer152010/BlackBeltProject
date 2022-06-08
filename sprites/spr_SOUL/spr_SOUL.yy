@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_SOUL","path":"sprites/spr_SOUL/spr_SOUL.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_SOUL",
     "tags": [],
     "resourceType": "GMSequence",

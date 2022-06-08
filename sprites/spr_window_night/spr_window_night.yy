@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_window_night","path":"sprites/spr_window_night/spr_window_night.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_window_night",
     "tags": [],
     "resourceType": "GMSequence",

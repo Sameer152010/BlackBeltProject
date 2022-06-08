@@ -127,7 +127,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_textbox_npc","path":"sprites/spr_textbox_npc/spr_textbox_npc.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_textbox_npc",
     "tags": [],
     "resourceType": "GMSequence",

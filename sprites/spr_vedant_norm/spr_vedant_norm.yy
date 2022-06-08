@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_vedant_norm","path":"sprites/spr_vedant_norm/spr_vedant_norm.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_vedant_norm",
     "tags": [],
     "resourceType": "GMSequence",

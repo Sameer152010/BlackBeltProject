@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_outsidetiles","path":"sprites/spr_outsidetiles/spr_outsidetiles.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_outsidetiles",
     "tags": [],
     "resourceType": "GMSequence",

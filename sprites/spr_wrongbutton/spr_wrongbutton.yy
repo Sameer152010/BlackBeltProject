@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_wrongbutton","path":"sprites/spr_wrongbutton/spr_wrongbutton.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_wrongbutton",
     "tags": [],
     "resourceType": "GMSequence",

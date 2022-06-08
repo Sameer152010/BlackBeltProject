@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_busoutside","path":"sprites/spr_busoutside/spr_busoutside.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_busoutside",
     "tags": [],
     "resourceType": "GMSequence",

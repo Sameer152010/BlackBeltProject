@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bigbed","path":"sprites/spr_bigbed/spr_bigbed.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_bigbed",
     "tags": [],
     "resourceType": "GMSequence",

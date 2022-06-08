@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_heal","path":"sprites/spr_heal/spr_heal.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_heal",
     "tags": [],
     "resourceType": "GMSequence",

@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_deathscreen","path":"sprites/spr_deathscreen/spr_deathscreen.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_deathscreen",
     "tags": [],
     "resourceType": "GMSequence",

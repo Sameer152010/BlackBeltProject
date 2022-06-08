@@ -431,7 +431,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mainfont","path":"sprites/spr_mainfont/spr_mainfont.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mainfont",
     "tags": [],
     "resourceType": "GMSequence",

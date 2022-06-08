@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_everest_face","path":"sprites/spr_everest_face/spr_everest_face.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_everest_face",
     "tags": [],
     "resourceType": "GMSequence",

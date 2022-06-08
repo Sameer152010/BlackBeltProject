@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_fightblob50","path":"sprites/spr_fightblob50/spr_fightblob50.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_fightblob50",
     "tags": [],
     "resourceType": "GMSequence",

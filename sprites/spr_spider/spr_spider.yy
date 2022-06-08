@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_spider","path":"sprites/spr_spider/spr_spider.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_spider",
     "tags": [],
     "resourceType": "GMSequence",

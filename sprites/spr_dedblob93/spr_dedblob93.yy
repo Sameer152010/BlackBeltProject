@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_dedblob93","path":"sprites/spr_dedblob93/spr_dedblob93.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_dedblob",
     "tags": [],
     "resourceType": "GMSequence",

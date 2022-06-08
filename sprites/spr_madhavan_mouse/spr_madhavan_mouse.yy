@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_madhavan_mouse","path":"sprites/spr_madhavan_mouse/spr_madhavan_mouse.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_madhavan_mouse",
     "tags": [],
     "resourceType": "GMSequence",

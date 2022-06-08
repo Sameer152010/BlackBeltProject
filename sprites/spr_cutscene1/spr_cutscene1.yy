@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_cutscene1","path":"sprites/spr_cutscene1/spr_cutscene1.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_cutscene1",
     "tags": [],
     "resourceType": "GMSequence",

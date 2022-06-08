@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_homecomp","path":"sprites/spr_homecomp/spr_homecomp.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_homecomp",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_altarol","path":"sprites/spr_altarol/spr_altarol.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_altarol",
     "tags": [],
     "resourceType": "GMSequence",

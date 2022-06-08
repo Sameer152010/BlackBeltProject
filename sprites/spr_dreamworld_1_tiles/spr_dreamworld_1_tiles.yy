@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_dreamworld_1_tiles","path":"sprites/spr_dreamworld_1_tiles/spr_dreamworld_1_tiles.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_dreamworld_1_tiles",
     "tags": [],
     "resourceType": "GMSequence",

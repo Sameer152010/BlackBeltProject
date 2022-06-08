@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_battlebegin_UNFINISHED","path":"sprites/spr_battlebegin_UNFINISHED/spr_battlebegin_UNFINISHED.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_battlebegin_UNFINISHED",
     "tags": [],
     "resourceType": "GMSequence",

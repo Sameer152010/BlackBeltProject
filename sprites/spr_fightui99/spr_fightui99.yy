@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_fightui99","path":"sprites/spr_fightui99/spr_fightui99.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_fightui",
     "tags": [],
     "resourceType": "GMSequence",

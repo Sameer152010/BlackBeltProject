@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_getupsleepyhead","path":"sprites/spr_getupsleepyhead/spr_getupsleepyhead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_getupsleepyhead",
     "tags": [],
     "resourceType": "GMSequence",

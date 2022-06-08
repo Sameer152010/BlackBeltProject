@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bghealthbar91","path":"sprites/spr_bghealthbar91/spr_bghealthbar91.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_bghealthbar",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_toilet_back","path":"sprites/spr_toilet_back/spr_toilet_back.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_toilet_back",
     "tags": [],
     "resourceType": "GMSequence",

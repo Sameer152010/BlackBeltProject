@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mom_down","path":"sprites/spr_mom_down/spr_mom_down.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mom_down",
     "tags": [],
     "resourceType": "GMSequence",

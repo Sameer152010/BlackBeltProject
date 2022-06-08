@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_battle_arena","path":"sprites/spr_battle_arena/spr_battle_arena.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_battle_arena",
     "tags": [],
     "resourceType": "GMSequence",

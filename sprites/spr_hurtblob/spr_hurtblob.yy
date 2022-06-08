@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_hurtblob","path":"sprites/spr_hurtblob/spr_hurtblob.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_hurtblob",
     "tags": [],
     "resourceType": "GMSequence",

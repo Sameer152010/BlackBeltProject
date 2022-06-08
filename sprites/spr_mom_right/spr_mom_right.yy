@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mom_right","path":"sprites/spr_mom_right/spr_mom_right.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mom_right",
     "tags": [],
     "resourceType": "GMSequence",

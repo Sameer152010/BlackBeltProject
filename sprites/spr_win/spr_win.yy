@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_win","path":"sprites/spr_win/spr_win.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_win",
     "tags": [],
     "resourceType": "GMSequence",

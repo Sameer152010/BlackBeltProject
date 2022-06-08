@@ -91,7 +91,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_fallendown_o","path":"sprites/spr_fallendown_o/spr_fallendown_o.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_fallendown_o",
     "tags": [],
     "resourceType": "GMSequence",

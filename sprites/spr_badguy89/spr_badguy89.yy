@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_badguy89","path":"sprites/spr_badguy89/spr_badguy89.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_badguy",
     "tags": [],
     "resourceType": "GMSequence",

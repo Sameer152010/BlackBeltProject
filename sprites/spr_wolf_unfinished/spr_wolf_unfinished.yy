@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_wolf_unfinished","path":"sprites/spr_wolf_unfinished/spr_wolf_unfinished.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_wolf_unfinished",
     "tags": [],
     "resourceType": "GMSequence",

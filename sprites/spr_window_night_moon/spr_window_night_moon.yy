@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_window_night_moon","path":"sprites/spr_window_night_moon/spr_window_night_moon.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_window_night_moon",
     "tags": [],
     "resourceType": "GMSequence",

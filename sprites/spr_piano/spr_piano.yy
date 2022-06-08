@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_piano","path":"sprites/spr_piano/spr_piano.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_piano",
     "tags": [],
     "resourceType": "GMSequence",

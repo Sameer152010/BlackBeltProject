@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_madhavan_norm3940","path":"sprites/spr_madhavan_norm3940/spr_madhavan_norm3940.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_madhavan_norm",
     "tags": [],
     "resourceType": "GMSequence",

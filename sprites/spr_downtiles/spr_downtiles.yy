@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_downtiles","path":"sprites/spr_downtiles/spr_downtiles.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_downtiles",
     "tags": [],
     "resourceType": "GMSequence",

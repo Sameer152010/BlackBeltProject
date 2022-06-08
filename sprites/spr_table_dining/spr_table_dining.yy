@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_table_dining","path":"sprites/spr_table_dining/spr_table_dining.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_table_dining",
     "tags": [],
     "resourceType": "GMSequence",

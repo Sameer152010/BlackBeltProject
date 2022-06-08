@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_wolf","path":"sprites/spr_wolf/spr_wolf.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_wolf",
     "tags": [],
     "resourceType": "GMSequence",

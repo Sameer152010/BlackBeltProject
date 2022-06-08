@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_badguy_hitbox90","path":"sprites/spr_badguy_hitbox90/spr_badguy_hitbox90.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_badguy_hitbox",
     "tags": [],
     "resourceType": "GMSequence",

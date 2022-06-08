@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_rightbutton","path":"sprites/spr_rightbutton/spr_rightbutton.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_rightbutton",
     "tags": [],
     "resourceType": "GMSequence",

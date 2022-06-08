@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mewtwo_norm","path":"sprites/spr_mewtwo_norm/spr_mewtwo_norm.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mewtwo_norm",
     "tags": [],
     "resourceType": "GMSequence",
