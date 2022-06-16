@@ -5,6 +5,7 @@
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": {
     "name": "spr_fightui",
     "path": "sprites/spr_fightui/spr_fightui.yy",

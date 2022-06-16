@@ -7,7 +7,7 @@ op_space = 16;
 pos = 0;
 
 option[0, 0] = "Start Game"
-option[0, 1] = "Controls"
+option[0, 1] = "Freeplay"
 option[0, 2] = "Quit Game"
 
 option[1, 0] = "MOVE - ARROW KEYS"
