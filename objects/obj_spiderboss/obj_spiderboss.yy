@@ -1,9 +1,15 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Sprite125",
+    "path": "sprites/Sprite125/Sprite125.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "Sprite125",
+    "path": "sprites/Sprite125/Sprite125.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -18,7 +24,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -26,7 +34,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object91",
+  "name": "obj_spiderboss",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -1,12 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_warp_block",
-    "path": "sprites/spr_warp_block/spr_warp_block.yy",
+    "name": "Sprite127",
+    "path": "sprites/Sprite127/Sprite127.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "Sprite127",
+    "path": "sprites/Sprite127/Sprite127.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -28,11 +31,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "FightSystem",
+    "path": "folders/FightSystem.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_warp_block",
+  "name": "obj_bossswitch",
   "tags": [],
   "resourceType": "GMObject",
 }
