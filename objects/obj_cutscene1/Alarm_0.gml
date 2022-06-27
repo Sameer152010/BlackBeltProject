@@ -1,5 +1,5 @@
 if(!instance_exists(obj_cutscene)){
-	create_cutscene(t_scene_info)
+	
 }
 
 //NOTE TO SELF: TAKE THE CODE UNDER HERE AND PUT IT WHERE IT BELONGS

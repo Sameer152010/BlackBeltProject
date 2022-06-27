@@ -14,7 +14,7 @@
   ],
   "layers": [
     {"assets":[
-        {"spriteId":{"name":"Sprite86","path":"sprites/Sprite86/Sprite86.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0666666,"scaleY":1.13647532,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":64.27049,"resourceVersion":"1.0","name":"graphic_6A9EC113","tags":[],"resourceType":"GMRSpriteGraphic",},
+        {"spriteId":{"name":"Sprite86","path":"sprites/Sprite86/Sprite86.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0666666,"scaleY":1.1364753,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":64.27049,"resourceVersion":"1.0","name":"graphic_6A9EC113","tags":[],"resourceType":"GMRSpriteGraphic",},
       ],"visible":true,"depth":-98,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Assets_1","tags":[],"resourceType":"GMRAssetLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.234375,"scaleY":0.546875,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":32.0,"resourceVersion":"1.0","name":"inst_3EE4B800","tags":[],"resourceType":"GMRInstance",},

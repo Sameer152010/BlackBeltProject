@@ -1,14 +1,17 @@
 {
   "spriteId": {
-    "name": "",
-    "path": "",
+    "name": "spr_barrier",
+    "path": "sprites/spr_barrier/spr_barrier.yy",
   },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_wall",
+    "path": "objects/obj_wall/obj_wall.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -21,9 +24,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +32,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_321go",
+  "name": "obj_bossbarriers",
   "tags": [],
   "resourceType": "GMObject",
 }
