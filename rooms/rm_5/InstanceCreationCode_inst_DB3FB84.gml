@@ -1,4 +1,4 @@
-target_x = 448;
-target_y = 200;
-target_rm = rm_downstairs;
-target_face = UP;
+target_x = 73;
+target_y = 107;
+target_rm = rm_bossfight;
+target_face = RIGHT;

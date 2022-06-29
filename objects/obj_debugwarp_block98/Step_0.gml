@@ -1,7 +1,12 @@
-if place_meeting(x, y, obj_player) && !instance_exists(obj_warp)
+selecto = keyboard_check_pressed(vk_enter);
+if(place_meeting(obj_debugwarp_block98.x, obj_debugwarp_block98.y, obj_player))
 	{
-	instance_create_depth(0, 0, -9999, obj_warp);
-	room_goto_next()
-	obj_player.x = 142
-	obj_player.y = 597
+		if(selecto)
+			{
+				with(instance_create_depth(0, 0, -9999, obj_textbox) )
+				{
+					scr_text("The warp block was being weird here. sorry")
+					room_goto_next()
+				}
+			}
 	}

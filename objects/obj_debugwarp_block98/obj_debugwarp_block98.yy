@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_warp_block",
-    "path": "sprites/spr_warp_block/spr_warp_block.yy",
+    "name": "spr_battle_arena",
+    "path": "sprites/spr_battle_arena/spr_battle_arena.yy",
   },
   "solid": false,
   "visible": false,
