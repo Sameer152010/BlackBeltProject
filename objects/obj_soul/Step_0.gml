@@ -50,6 +50,7 @@ if xspd == 0 && yspd == 0
 	
 if obj_healthbar.hp == 0
 {
+	room_goto(rm_deathscreen)
 	sprite_index = spr_dedblob;
 	move_spd = 0;
 }
