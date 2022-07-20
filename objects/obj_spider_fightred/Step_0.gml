@@ -1,14 +1,12 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(obj_spider_fight105.y == 216)
+if(instance_exists(obj_player))
 {
-	move_towards_point(obj_spider_fight105.x, 0, spd)
+	move_towards_point(obj_player.x, obj_player.y, spd);
+	
 }
-if(obj_spider_fight105.y == 0)
-{
-	move_towards_point(obj_spider_fight105.x, 216, spd)
-}
-if(place_meeting(obj_spider_fight105.x, obj_spider_fight105.y, obj_player))
+
+if(place_meeting(obj_spider_fightred.x, obj_spider_fightred.y, obj_player))
 {
 	if !recently_hit
 	{
