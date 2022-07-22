@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "spr_mom_down",
-    "path": "sprites/spr_mom_down/spr_mom_down.yy",
+    "name": "spr_warp_block",
+    "path": "sprites/spr_warp_block/spr_warp_block.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -21,7 +21,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -29,7 +32,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_getupsleepyhead",
+  "name": "obj_chap2warp_block",
   "tags": [],
   "resourceType": "GMObject",
 }

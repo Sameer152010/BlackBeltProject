@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 111,
+  "bbox_right": 42,
   "bbox_top": 0,
-  "bbox_bottom": 95,
+  "bbox_bottom": 27,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 128,
-  "height": 128,
+  "width": 43,
+  "height": 28,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"4f66c55a-cfa6-4208-8d2f-304e84637569","path":"sprites/spr_islandwatertiles/spr_islandwatertiles.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"4f66c55a-cfa6-4208-8d2f-304e84637569","path":"sprites/spr_islandwatertiles/spr_islandwatertiles.yy",},"LayerId":{"name":"f69c0341-9f19-4a09-a73f-cc9ed4670724","path":"sprites/spr_islandwatertiles/spr_islandwatertiles.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_islandwatertiles","path":"sprites/spr_islandwatertiles/spr_islandwatertiles.yy",},"resourceVersion":"1.0","name":"4f66c55a-cfa6-4208-8d2f-304e84637569","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1acfe167-b52b-422d-8456-48700baa6156","path":"sprites/Sprite137/Sprite137.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1acfe167-b52b-422d-8456-48700baa6156","path":"sprites/Sprite137/Sprite137.yy",},"LayerId":{"name":"c7e3b3da-edac-42c8-ba44-57eb13f0894e","path":"sprites/Sprite137/Sprite137.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Sprite137","path":"sprites/Sprite137/Sprite137.yy",},"resourceVersion":"1.0","name":"1acfe167-b52b-422d-8456-48700baa6156","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_islandwatertiles","path":"sprites/spr_islandwatertiles/spr_islandwatertiles.yy",},
+    "spriteId": {"name":"Sprite137","path":"sprites/Sprite137/Sprite137.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"603b8ca5-434b-49d9-8dfe-231a58fdf2d0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4f66c55a-cfa6-4208-8d2f-304e84637569","path":"sprites/spr_islandwatertiles/spr_islandwatertiles.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bab6de22-1656-4ef0-952c-0de68ebc52b3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1acfe167-b52b-422d-8456-48700baa6156","path":"sprites/Sprite137/Sprite137.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_islandwatertiles","path":"sprites/spr_islandwatertiles/spr_islandwatertiles.yy",},
+    "parent": {"name":"Sprite137","path":"sprites/Sprite137/Sprite137.yy",},
     "resourceVersion": "1.4",
-    "name": "spr_islandwatertiles",
+    "name": "Sprite137",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f69c0341-9f19-4a09-a73f-cc9ed4670724","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c7e3b3da-edac-42c8-ba44-57eb13f0894e","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_islandwatertiles",
+  "name": "Sprite137",
   "tags": [],
   "resourceType": "GMSprite",
 }

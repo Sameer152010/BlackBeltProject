@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_mom_down",
-    "path": "sprites/spr_mom_down/spr_mom_down.yy",
+    "name": "Sprite137",
+    "path": "sprites/Sprite137/Sprite137.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -29,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_getupsleepyhead",
+  "name": "obj_signpostchap2",
   "tags": [],
   "resourceType": "GMObject",
 }
