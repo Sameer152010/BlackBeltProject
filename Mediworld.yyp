@@ -189,6 +189,7 @@
     {"id":{"name":"obj_sleepy_boi","path":"objects/obj_sleepy_boi/obj_sleepy_boi.yy",},"order":19,},
     {"id":{"name":"obj_bossswitch","path":"objects/obj_bossswitch/obj_bossswitch.yy",},"order":39,},
     {"id":{"name":"obj_spider_fight105","path":"objects/obj_spider_fight105/obj_spider_fight105.yy",},"order":71,},
+    {"id":{"name":"obj_wrongbutton3","path":"objects/obj_wrongbutton3/obj_wrongbutton3.yy",},"order":77,},
     {"id":{"name":"obj_cutscene_8","path":"objects/obj_cutscene_8/obj_cutscene_8.yy",},"order":65,},
     {"id":{"name":"rm_bossfight3db","path":"rooms/rm_bossfight3db/rm_bossfight3db.yy",},"order":42,},
     {"id":{"name":"obj_signpostchap2","path":"objects/obj_signpostchap2/obj_signpostchap2.yy",},"order":74,},

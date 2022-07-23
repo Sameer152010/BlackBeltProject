@@ -1,3 +1,11 @@
+if(randomnum == 1)
+{
+	x = 112;
+}
+if(randomnum == 3)
+{
+	x = 208;
+}
 if(place_meeting(obj_rightbutton.x, obj_rightbutton.y, obj_player))
 {
 	if(instance_exists(Object79))
