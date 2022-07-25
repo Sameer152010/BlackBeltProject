@@ -62,3 +62,17 @@ if(dreamworld == 1)
 	sprite[LEFT] = spr_dplayer_left;
 	sprite[DOWN] = spr_dplayer_down;
 }
+if(ocean == 0)
+{
+	sprite[RIGHT] = spr_player_right;
+	sprite[UP] = spr_player_up;
+	sprite[LEFT] = spr_player_left;
+	sprite[DOWN] = spr_player_down;
+}
+if(ocean == 1)
+{
+	sprite[RIGHT] = spr_oplayer_right;
+	sprite[UP] = spr_oplayer_up;
+	sprite[LEFT] = spr_oplayer_left;
+	sprite[DOWN] = spr_oplayer_down;
+}

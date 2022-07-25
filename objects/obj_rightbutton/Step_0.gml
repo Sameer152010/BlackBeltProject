@@ -1,9 +1,11 @@
 if(randomnum == 1)
 {
+	show_debug_message("Left")
 	x = 112;
 }
 if(randomnum == 3)
 {
+	show_debug_message("right")
 	x = 208;
 }
 if(place_meeting(obj_rightbutton.x, obj_rightbutton.y, obj_player))

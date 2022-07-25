@@ -1,6 +1,7 @@
 xspd = 0;
 yspd = 0;
 dreamworld = 0;
+ocean = 0;
 move_spd = 1;
 
 sprite[RIGHT] = spr_player_right;
