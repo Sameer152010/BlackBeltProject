@@ -1,19 +1,12 @@
-if(!fight_start)
-{
-	alarm[2] = 3*room_speed
-}
-if(fight_start == true)
-{
+
 	if(instance_exists(obj_player))
 	{
 
-		alarm[1] = 5 * room_speed;
-
-		move_towards_point(obj_player.x, obj_player.y, spd);
+	move_towards_point(obj_soul.x, obj_soul.y, spd);
 	}
 
 
-	if(place_meeting(obj_wolf_fight.x, obj_wolf_fight.y, obj_player))
+	if(place_meeting(obj_pirranah_fight.x, obj_pirranah_fight.y, obj_player))
 	{
 		if !recently_hit
 		{
@@ -32,4 +25,3 @@ if(fight_start == true)
 	{
 		spd = 0;
 	}
-}

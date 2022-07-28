@@ -126,6 +126,8 @@ switch(_text_id){
 		}
 		case "manualend":
 		{
+			obj_player.x = 135
+			obj_player.y = 107
 			room_goto_next()
 		}
 	}

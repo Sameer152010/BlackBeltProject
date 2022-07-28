@@ -56,4 +56,14 @@ if select <= -1
 		obj_bghealthbar.bghp -= 1;
 		alarm[0] = 1*room_speed
 	}
+	if(place_meeting(obj_player.x, obj_player.y, obj_bubbles) && selectf)
+	{
+		obj_player.sprite_index = spr_fightblobfight;
+		obj_player.sprite[RIGHT] = spr_fightblobfight;
+		obj_player.sprite[LEFT] = spr_fightblobfight;
+		obj_player.sprite[DOWN] = spr_fightblobfight;
+		obj_player.sprite[UP] = spr_fightblobfight;
+		obj_bghealthbar.bghp -= 1;
+		alarm[0] = 1*room_speed
+	}
 }
