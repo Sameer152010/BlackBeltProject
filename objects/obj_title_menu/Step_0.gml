@@ -23,7 +23,7 @@ var _sml = menu_level;
 					break;
 				//settings
 				case 1: 
-					room_goto(rm_8)
+					room_goto(rm_battle_arena)
 					break;
 				//QUIT
 				case 2:

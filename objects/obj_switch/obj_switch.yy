@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_teacher",
-    "path": "sprites/spr_teacher/spr_teacher.yy",
+    "name": "spr_switch",
+    "path": "sprites/spr_switch/spr_switch.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,8 +22,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,7 +32,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_teacher",
+  "name": "obj_switch",
   "tags": [],
   "resourceType": "GMObject",
 }
