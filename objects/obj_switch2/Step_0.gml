@@ -5,7 +5,7 @@ if(correct == 1)
 }else{
 	image_index = 0
 }
-if(place_meeting(obj_switch.x, obj_switch.y, obj_player))
+if(place_meeting(obj_switch2.x, obj_switch2.y, obj_player))
 	{
 		if(selecto && correct == 0)
 			{
@@ -13,7 +13,7 @@ if(place_meeting(obj_switch.x, obj_switch.y, obj_player))
 				{
 				scr_text("It's a switch.")
 				scr_text("Would you like to use the switch?")
-					scr_option("Yes", "switch11")
+					scr_option("Yes", "switch21")
 					scr_option("No", "noswitch")
 				}
 			}
@@ -23,7 +23,7 @@ if(place_meeting(obj_switch.x, obj_switch.y, obj_player))
 				{
 				scr_text("It's a switch.")
 				scr_text("Would you like to use the switch?")
-					scr_option("Yes", "switch12")
+					scr_option("Yes", "switch22")
 					scr_option("No", "noswitch")
 				}
 			}

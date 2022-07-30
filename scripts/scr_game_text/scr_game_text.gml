@@ -129,6 +129,51 @@ switch(_text_id){
 			obj_player.x = 135
 			obj_player.y = 107
 			room_goto_next()
+			break;
+		}
+		case "switch11":
+		{
+			obj_switch.correct = 1
+			scr_text("You flipped the switch.")
+			break;
+		}
+		
+		case "switch12":
+		{
+			obj_switch.correct = 0
+			scr_text("You flipped the switch.")
+			break;
+		}
+		case "noswitch":
+		{
+			scr_text("...")
+			break;
+		}
+		case "switch21":
+		{
+			obj_switch2.correct = 1
+			scr_text("You flipped the switch.")
+			break;
+		}
+		
+		case "switch22":
+		{
+			obj_switch2.correct = 0
+			scr_text("You flipped the switch.")
+			break;
+		}
+		case "switch31":
+		{
+			obj_switch3.correct = 1
+			scr_text("You flipped the switch.")
+			break;
+		}
+		
+		case "switch32":
+		{
+			obj_switch3.correct = 0
+			scr_text("You flipped the switch.")
+			break;
 		}
 	}
 
