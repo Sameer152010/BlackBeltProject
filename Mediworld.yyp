@@ -218,6 +218,7 @@
     {"id":{"name":"spr_busoutside","path":"sprites/spr_busoutside/spr_busoutside.yy",},"order":30,},
     {"id":{"name":"spr_downtiles","path":"sprites/spr_downtiles/spr_downtiles.yy",},"order":17,},
     {"id":{"name":"obj_badguy_hitbox","path":"objects/obj_badguy_hitbox/obj_badguy_hitbox.yy",},"order":20,},
+    {"id":{"name":"rm_9","path":"rooms/rm_9/rm_9.yy",},"order":38,},
     {"id":{"name":"obj_bigbed","path":"objects/obj_bigbed/obj_bigbed.yy",},"order":3,},
     {"id":{"name":"spr_battlebegin_UNFINISHED","path":"sprites/spr_battlebegin_UNFINISHED/spr_battlebegin_UNFINISHED.yy",},"order":49,},
     {"id":{"name":"obj_run","path":"objects/obj_run/obj_run.yy",},"order":19,},
@@ -401,6 +402,7 @@
     {"roomId":{"name":"rm_12","path":"rooms/rm_12/rm_12.yy",},},
     {"roomId":{"name":"rm_13","path":"rooms/rm_13/rm_13.yy",},},
     {"roomId":{"name":"rm_8","path":"rooms/rm_8/rm_8.yy",},},
+    {"roomId":{"name":"rm_9","path":"rooms/rm_9/rm_9.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
