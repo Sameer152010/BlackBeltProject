@@ -175,6 +175,31 @@ switch(_text_id){
 			scr_text("You flipped the switch.")
 			break;
 		}
+		case "++attack":
+		{
+			
+			obj_fight.attack_power = 2
+			obj_player.coins -= 4
+			scr_text("You bought the [Doublesword]")
+		
+			break;
+		}
+		
+		case "++defense":
+		{
+			
+			obj_item.healpower = 2
+			obj_player.coins -= 4
+			scr_text("You bought the [Extraheal]")
+				
+			break;
+		}
+		case "leaveshop":
+		{
+			room_goto(rm_2)
+			break;
+		}
+		
 	}
 
 }
