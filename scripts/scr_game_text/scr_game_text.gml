@@ -178,7 +178,7 @@ switch(_text_id){
 		case "++attack":
 		{
 			
-			obj_fight.attack_power = 2
+			obj_player.fight = 2
 			obj_player.coins -= 4
 			scr_text("You bought the [Doublesword]")
 		
@@ -188,7 +188,7 @@ switch(_text_id){
 		case "++defense":
 		{
 			
-			obj_item.healpower = 2
+			obj_player.heal = 2
 			obj_player.coins -= 4
 			scr_text("You bought the [Extraheal]")
 				

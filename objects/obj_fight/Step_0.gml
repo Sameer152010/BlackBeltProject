@@ -12,7 +12,7 @@ selectf = keyboard_check_pressed(vk_control);
 		obj_player.sprite[LEFT] = spr_fightblobfight;
 		obj_player.sprite[DOWN] = spr_fightblobfight;
 		obj_player.sprite[UP] = spr_fightblobfight;
-		obj_bghealthbar.bghp -= 1*attack_power;
+		obj_bghealthbar.bghp -= 1*obj_player.fight;
 		alarm[0] = 1*room_speed
 	}
 	if(place_meeting(obj_player.x, obj_player.y, obj_spiderweb) && selectf)
@@ -23,7 +23,7 @@ selectf = keyboard_check_pressed(vk_control);
 		obj_player.sprite[LEFT] = spr_fightblobfight;
 		obj_player.sprite[DOWN] = spr_fightblobfight;
 		obj_player.sprite[UP] = spr_fightblobfight;
-		obj_bghealthbar.bghp -= 1*attack_power;
+		obj_bghealthbar.bghp -= 1*obj_player.fight;
 		alarm[0] = 1*room_speed
 	}
 	
@@ -35,7 +35,7 @@ selectf = keyboard_check_pressed(vk_control);
 		obj_player.sprite[LEFT] = spr_fightblobfight;
 		obj_player.sprite[DOWN] = spr_fightblobfight;
 		obj_player.sprite[UP] = spr_fightblobfight;
-		obj_bghealthbar.bghp -= 1*attack_power;
+		obj_bghealthbar.bghp -= 1*obj_player.fight;
 		alarm[0] = 1*room_speed
 	}
 	if(place_meeting(obj_player.x, obj_player.y, obj_bubbles) && selectf)
@@ -46,7 +46,7 @@ selectf = keyboard_check_pressed(vk_control);
 		obj_player.sprite[LEFT] = spr_fightblobfight;
 		obj_player.sprite[DOWN] = spr_fightblobfight;
 		obj_player.sprite[UP] = spr_fightblobfight;
-		obj_bghealthbar.bghp -= 1*attack_power;
+		obj_bghealthbar.bghp -= 1*obj_player.fight;
 		alarm[0] = 1*room_speed
 	}
 
