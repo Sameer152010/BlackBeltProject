@@ -181,7 +181,7 @@ switch(_text_id){
 			obj_player.fight = 2
 			obj_player.coins -= 4
 			scr_text("You bought the [Doublesword]")
-		
+				scr_option("Leave", "leaveshop");
 			break;
 		}
 		
@@ -191,7 +191,7 @@ switch(_text_id){
 			obj_player.heal = 2
 			obj_player.coins -= 4
 			scr_text("You bought the [Extraheal]")
-				
+				scr_option("Leave", "leaveshop");
 			break;
 		}
 		case "leaveshop":
