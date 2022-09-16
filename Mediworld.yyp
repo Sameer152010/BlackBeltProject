@@ -330,6 +330,7 @@
     {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},"order":24,},
     {"id":{"name":"rm_shop","path":"rooms/rm_shop/rm_shop.yy",},"order":39,},
     {"id":{"name":"spr_toilet_back","path":"sprites/spr_toilet_back/spr_toilet_back.yy",},"order":13,},
+    {"id":{"name":"Sprite161","path":"sprites/Sprite161/Sprite161.yy",},"order":111,},
     {"id":{"name":"rm_school","path":"rooms/rm_school/rm_school.yy",},"order":9,},
     {"id":{"name":"ts_school","path":"tilesets/ts_school/ts_school.yy",},"order":5,},
     {"id":{"name":"ts_dreamworld_1","path":"tilesets/ts_dreamworld_1/ts_dreamworld_1.yy",},"order":6,},
