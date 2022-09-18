@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 14,
+  "bbox_right": 22,
   "bbox_top": 0,
-  "bbox_bottom": 19,
+  "bbox_bottom": 11,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 15,
-  "height": 20,
+  "width": 23,
+  "height": 12,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"9202a3cc-33c1-4253-ab07-674cbb5e50b3","path":"sprites/spr_heal/spr_heal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"9202a3cc-33c1-4253-ab07-674cbb5e50b3","path":"sprites/spr_heal/spr_heal.yy",},"LayerId":{"name":"2e89eae6-4623-4c67-b082-667df99aed80","path":"sprites/spr_heal/spr_heal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_heal","path":"sprites/spr_heal/spr_heal.yy",},"resourceVersion":"1.0","name":"9202a3cc-33c1-4253-ab07-674cbb5e50b3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d7a4da05-643a-43cd-81f5-688cb1da8101","path":"sprites/Sprite162/Sprite162.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d7a4da05-643a-43cd-81f5-688cb1da8101","path":"sprites/Sprite162/Sprite162.yy",},"LayerId":{"name":"892861e1-ddd1-4f39-bc68-a6b8c5656cff","path":"sprites/Sprite162/Sprite162.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Sprite162","path":"sprites/Sprite162/Sprite162.yy",},"resourceVersion":"1.0","name":"d7a4da05-643a-43cd-81f5-688cb1da8101","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_heal","path":"sprites/spr_heal/spr_heal.yy",},
+    "spriteId": {"name":"Sprite162","path":"sprites/Sprite162/Sprite162.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"d4041016-c776-4b94-b23e-fa4f1e09bc52","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9202a3cc-33c1-4253-ab07-674cbb5e50b3","path":"sprites/spr_heal/spr_heal.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"96e81106-0882-4d42-bb5f-f9f44c5360d2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d7a4da05-643a-43cd-81f5-688cb1da8101","path":"sprites/Sprite162/Sprite162.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,22 +58,22 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_heal","path":"sprites/spr_heal/spr_heal.yy",},
+    "parent": {"name":"Sprite162","path":"sprites/Sprite162/Sprite162.yy",},
     "resourceVersion": "1.4",
-    "name": "spr_heal",
+    "name": "Sprite162",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2e89eae6-4623-4c67-b082-667df99aed80","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"892861e1-ddd1-4f39-bc68-a6b8c5656cff","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "FightSystem",
-    "path": "folders/FightSystem.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_heal",
+  "name": "Sprite162",
   "tags": [],
   "resourceType": "GMSprite",
 }
