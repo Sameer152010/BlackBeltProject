@@ -188,7 +188,7 @@ switch(_text_id){
 		case "++defense":
 		{
 			
-			obj_player.heal = 2
+			obj_player.heal = 3
 			obj_player.coins -= 4
 			scr_text("You bought the [Extraheal]")
 				scr_option("Leave", "leaveshop");

@@ -48,31 +48,14 @@ if xspd == 0 && yspd == 0
 	image_index = 0;
 	}
 
-if(dreamworld == 0)
-{
+if(obj_char_select == 0){
 	sprite[RIGHT] = spr_player_right;
 	sprite[UP] = spr_player_up;
 	sprite[LEFT] = spr_player_left;
 	sprite[DOWN] = spr_player_down;
-}
-if(dreamworld == 1)
-{
-	sprite[RIGHT] = spr_dplayer_right;
-	sprite[UP] = spr_dplayer_up;
-	sprite[LEFT] = spr_dplayer_left;
-	sprite[DOWN] = spr_dplayer_down;
-}
-if(ocean == 0)
-{
-	sprite[RIGHT] = spr_player_right;
-	sprite[UP] = spr_player_up;
-	sprite[LEFT] = spr_player_left;
-	sprite[DOWN] = spr_player_down;
-}
-if(ocean == 1)
-{
-	sprite[RIGHT] = spr_oplayer_right;
-	sprite[UP] = spr_oplayer_up;
-	sprite[LEFT] = spr_oplayer_left;
-	sprite[DOWN] = spr_oplayer_down;
+}else{
+	sprite[RIGHT] = spr_mom_right;
+	sprite[UP] = spr_mom_up;
+	sprite[LEFT] = spr_mom_left;
+	sprite[DOWN] = spr_mom_down;
 }
