@@ -1,4 +1,4 @@
-if(obj_player.coins == 4)
+if(obj_player.coins >= 4)
 {
 	with(instance_create_depth(0, 0, -9999, obj_textbox) )
 			{

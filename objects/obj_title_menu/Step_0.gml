@@ -23,11 +23,15 @@ var _sml = menu_level;
 					break;
 				//settings
 				case 1: 
-					room_goto(rm_battle_arena)
+					menu_level=1;
 					break;
 				//QUIT
 				case 2:
 	
+					room_goto(rm_battle_arena)
+					break;
+				case 3:
+				
 					game_end()
 					break;
 			
@@ -48,6 +52,9 @@ var _sml = menu_level;
 			
 			break;
 			case 3:
+			
+			break;
+			case 4:
 			menu_level = 0;
 			break;
 		}
