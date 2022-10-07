@@ -228,6 +228,7 @@
     {"id":{"name":"obj_spider_fight105","path":"objects/obj_spider_fight105/obj_spider_fight105.yy",},"order":71,},
     {"id":{"name":"obj_wrongbutton3","path":"objects/obj_wrongbutton3/obj_wrongbutton3.yy",},"order":77,},
     {"id":{"name":"spr_coindisplay0","path":"sprites/spr_coindisplay0/spr_coindisplay0.yy",},"order":109,},
+    {"id":{"name":"Object128","path":"objects/Object128/Object128.yy",},"order":94,},
     {"id":{"name":"obj_pirranah","path":"objects/obj_pirranah/obj_pirranah.yy",},"order":78,},
     {"id":{"name":"spr_coin","path":"sprites/spr_coin/spr_coin.yy",},"order":100,},
     {"id":{"name":"obj_cutscene_8","path":"objects/obj_cutscene_8/obj_cutscene_8.yy",},"order":65,},

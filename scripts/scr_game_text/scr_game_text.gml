@@ -194,6 +194,14 @@ switch(_text_id){
 				scr_option("Leave", "leaveshop");
 			break;
 		}
+		case "BOX":
+		{
+			obj_char_select.gender = 2;
+			obj_player.coins -= 4
+			scr_text("You bought the [BOX]")
+				scr_option("Leave","leaveshop")
+			break;
+		}
 		case "leaveshop":
 		{
 			room_goto(rm_2)

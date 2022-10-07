@@ -33,6 +33,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.2857144,"scaleY":2.4236913,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":32.0,"resourceVersion":"1.0","name":"inst_7D847C65","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_warp_block","path":"objects/obj_warp_block/obj_warp_block.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":0.046875,"scaleY":2.1449852,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":39.22094,"resourceVersion":"1.0","name":"inst_42CE3B22","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_shopblock","path":"objects/obj_shopblock/obj_shopblock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":7.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":64.0,"resourceVersion":"1.0","name":"inst_4FE21C01","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"Object128","path":"objects/Object128/Object128.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":224.0,"y":54.499996,"resourceVersion":"1.0","name":"inst_6E05C803","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":99,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"ts_dreamworld_1","path":"tilesets/ts_dreamworld_1/ts_dreamworld_1.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":18,"SerialiseHeight":14,"TileSerialiseData":[
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
@@ -73,6 +74,7 @@
     {"name":"inst_42CE3B22","path":"rooms/rm_9/rm_9.yy",},
     {"name":"inst_7D847C65","path":"rooms/rm_9/rm_9.yy",},
     {"name":"inst_4FE21C01","path":"rooms/rm_9/rm_9.yy",},
+    {"name":"inst_6E05C803","path":"rooms/rm_9/rm_9.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

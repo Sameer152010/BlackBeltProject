@@ -1,13 +1,13 @@
 {
   "spriteId": {
-    "name": "Sprite165",
-    "path": "sprites/Sprite165/Sprite165.yy",
+    "name": "spr_battle_arena",
+    "path": "sprites/spr_battle_arena/spr_battle_arena.yy",
   },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
-  "persistent": true,
+  "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
@@ -22,7 +22,6 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
@@ -32,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_char_select",
+  "name": "Object128",
   "tags": [],
   "resourceType": "GMObject",
 }
