@@ -10,5 +10,6 @@
 			gender = 1
 			obj_char_select.x = 999
 			obj_char_select.y = 999
+			
 			}
 

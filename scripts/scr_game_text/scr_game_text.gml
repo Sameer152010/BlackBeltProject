@@ -178,7 +178,7 @@ switch(_text_id){
 		case "++attack":
 		{
 			
-			obj_player.fight = 2
+			obj_player.fight = 3
 			obj_player.coins -= 4
 			scr_text("You bought the [Doublesword]")
 				scr_option("Leave", "leaveshop");

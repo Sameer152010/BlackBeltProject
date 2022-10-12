@@ -1,5 +1,5 @@
 selecto = keyboard_check_pressed(vk_enter);
-if(place_meeting(obj_carmine.x, obj_carmine.y, obj_player))
+if(place_meeting(Object128.x, Object128.y, obj_player))
 	{
 		if(selecto)
 			{

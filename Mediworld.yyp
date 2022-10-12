@@ -221,7 +221,6 @@
     {"id":{"name":"obj_decoy","path":"objects/obj_decoy/obj_decoy.yy",},"order":25,},
     {"id":{"name":"spr_pirranah","path":"sprites/spr_pirranah/spr_pirranah.yy",},"order":92,},
     {"id":{"name":"spr_speakblock_m","path":"sprites/spr_speakblock_m/spr_speakblock_m.yy",},"order":9,},
-    {"id":{"name":"obj_shopblock","path":"objects/obj_shopblock/obj_shopblock.yy",},"order":93,},
     {"id":{"name":"obj_cutscene_7","path":"objects/obj_cutscene_7/obj_cutscene_7.yy",},"order":42,},
     {"id":{"name":"obj_sleepy_boi","path":"objects/obj_sleepy_boi/obj_sleepy_boi.yy",},"order":19,},
     {"id":{"name":"obj_bossswitch","path":"objects/obj_bossswitch/obj_bossswitch.yy",},"order":39,},

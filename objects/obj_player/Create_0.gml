@@ -3,8 +3,8 @@ yspd = 0;
 dreamworld = 0;
 ocean = 0;
 move_spd = 1;
-fight = 1;
-heal = 2;
+fight = 2;
+heal = 1;
 coins = 0;
 checkpoint = 0;
 if(obj_char_select == 0){
@@ -17,5 +17,7 @@ if(obj_char_select == 0){
 	sprite[UP] = spr_mom_up;
 	sprite[LEFT] = spr_mom_left;
 	sprite[DOWN] = spr_mom_down;
+	fight=1;
+	heal=2;
 }
 face = DOWN;

@@ -58,6 +58,8 @@ if(obj_char_select.gender == 0){
 	sprite[UP] = spr_mom_up;
 	sprite[LEFT] = spr_mom_left;
 	sprite[DOWN] = spr_mom_down;
+	fight=1;
+	heal=2;
 }else{
 	sprite[RIGHT] = spr_oplayer_right;
 	sprite[UP] = spr_oplayer_up;
